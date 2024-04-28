@@ -1,0 +1,1 @@
+# i know this is a very unsecure method of doing this, but tbh props on you for finding this. Feel free to take the mod but dont use in official matches and dont share this. this can be our secret shh
