@@ -1,3 +1,7 @@
 {
-  "blacklist": []
+  "blacklist": [
+    "F603301FDE8B4BEE",
+    "9CF2E65479351DDC",
+    "1A3EE085EF0C1F32"
+  ]
 }
